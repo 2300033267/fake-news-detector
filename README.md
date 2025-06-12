@@ -4,12 +4,12 @@
 This project uses **Natural Language Processing (NLP)** and **Machine Learning** to classify news articles as either **fake** or **real**. It helps reduce misinformation spread by providing a quick and reliable way to verify the authenticity of online news content.
 
 ## 🚀 Project Features
-- Text preprocessing using NLTK
+- Preprocessing using NLTK
 - TF-IDF vectorization
-- Fake vs Real classification using PassiveAggressiveClassifier
-- Model evaluation: Accuracy, Precision, Recall, F1-score
-- Real-time prediction example
-- Deployment-ready code for Streamlit or Flask
+- PassiveAggressiveClassifier model
+- Evaluation: Accuracy, Precision, Recall, F1-score
+- Real-time prediction
+- Ready for Streamlit/Flask deployment
 
 ## 📁 Project Structure
 ```
@@ -43,9 +43,11 @@ Kaggle: [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisai
 
 ## 🛠️ Future Improvements
 - Multilingual support
+- Multilingual Support
 - Fake image/video detection using deep learning
 - Browser plugin for real-time detection
 - User feedback retraining
+- Mobile App for Fake News Detection
 
 ## 📎 License
 This project is open-source and free to use under the MIT License.
